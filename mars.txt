@@ -3,3 +3,4 @@ This lesson is confusing. I don't know that I understand what we are doing
 How we are doing it
 Or why we are doing it
 Git saves instructions on how two files differ; it doesn't replicate it
+This class never ends.
